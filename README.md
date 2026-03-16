@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0138-copy-list-with-random-pointer](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
