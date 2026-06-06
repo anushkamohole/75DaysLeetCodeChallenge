@@ -15,9 +15,9 @@ public:
                 bound = mid; 
                 
                 if (isFirst) {
-                    end = mid - 1; 
+                    end = mid - 1;//continue finding first occurence on left 
                 } else {
-                    st = mid + 1;  
+                    st = mid + 1;//continue finding last occurence on right 
                 }
             } else if (nums[mid] < target) {
                 st = mid + 1;
