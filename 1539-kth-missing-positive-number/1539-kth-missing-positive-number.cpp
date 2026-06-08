@@ -34,3 +34,14 @@ public:
         return arr[end] + more_needed;
     }
 };
+/*int findKthPositive(vector<int>& arr, int k) {
+        for (int i = 0; i < arr.size(); i++) {
+            if (arr[i] <= k) {
+                k++; // A slot was taken, push our target up by 1
+            } else {
+                break; // The array numbers are now bigger than our target. We are done!
+            }
+        }
+        return k;
+    }
+    */
