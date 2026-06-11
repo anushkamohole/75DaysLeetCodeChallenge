@@ -1,3 +1,4 @@
+/*0(n^2)
 class Solution {
 public:
     bool isAnagram(string s, string t) {
@@ -14,12 +15,7 @@ public:
         return true;
     }
 };
-/* OPTIMIZED
-#include <string>
-#include <vector>
-
-using namespace std;
-
+*/
 class Solution {
 public:
     bool isAnagram(string s, string t) {
@@ -45,5 +41,5 @@ public:
 
         return true;
     }
-};*/
+};
 
