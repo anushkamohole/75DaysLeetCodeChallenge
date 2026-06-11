@@ -1,4 +1,49 @@
+#include <algorithm>
+#include <string>
+
+using namespace std;
+
 class Solution {
+public:
+    string reverseWords(string s) {
+        // Step 1: Reverse the entire string
+        reverse(s.begin(), s.end());
+
+        int n = s.length();
+        int left = 0, right = 0, i = 0;
+
+        while (i < n) {
+            // 1. Skip any extra spaces with our read pointer 'i'
+            while (i < n && s[i] == ' ') {
+                i++;
+            }
+            
+            if (i == n) break; // If we reached the end, stop.
+
+            // 2. If this isn't the very first word, add a single space to separate them
+            if (right > 0) {
+                s[right++] = ' ';
+            }
+
+            // 3. Mark the start of the current word
+            left = right;
+
+            // 4. Copy the word characters to their proper place
+            while (i < n && s[i] != ' ') {
+                s[right++] = s[i++];
+            }
+
+            // 5. Un-reverse the word we just placed!
+            reverse(s.begin() + left, s.begin() + right);
+        }
+
+        // Step 6: Chop off the leftover garbage characters at the end of the string
+        s.resize(right);
+
+        return s;
+    }
+};
+/*class Solution {
 public:
     string reverseWords(string s) {
         string result = "";
@@ -38,3 +83,4 @@ public:
         return result;
     }
 };
+*/
