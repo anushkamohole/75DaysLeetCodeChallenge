@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
+| [0231-power-of-two](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -150,4 +151,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
