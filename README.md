@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
