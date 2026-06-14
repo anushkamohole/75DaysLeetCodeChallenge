@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 | [1539-kth-missing-positive-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 ## String
 |  |
 | ------- |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
