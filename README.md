@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
+| [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
@@ -251,4 +254,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
