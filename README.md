@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-kth-missing-positive-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
@@ -262,4 +264,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
