@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0575-distribute-candies) |
+| [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
@@ -279,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 <!---LeetCode Topics End-->
