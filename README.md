@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 ## Binary Search
