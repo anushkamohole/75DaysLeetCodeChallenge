@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
