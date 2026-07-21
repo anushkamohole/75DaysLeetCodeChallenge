@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-kth-missing-positive-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2381-shifting-letters-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+| [2381-shifting-letters-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
+| [2381-shifting-letters-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
 ## Two Pointers
 |  |
 | ------- |
