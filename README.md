@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0575-distribute-candies) |
 | [0704-binary-search](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
