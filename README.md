@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0225-implement-stack-using-queues](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Graph Theory
@@ -314,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
