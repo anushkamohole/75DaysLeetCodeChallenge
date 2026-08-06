@@ -336,5 +336,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0196-delete-duplicate-emails) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
