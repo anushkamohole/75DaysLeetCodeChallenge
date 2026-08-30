@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0078-subsets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
