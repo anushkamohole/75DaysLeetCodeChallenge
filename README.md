@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0322-coin-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+| [0322-coin-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 ## Database
 |  |
@@ -339,4 +342,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
