@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
