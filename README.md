@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1943-describe-the-painting](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1943-describe-the-painting) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2381-shifting-letters-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1943-describe-the-painting) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
 | ------- |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
@@ -324,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
