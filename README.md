@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0196-delete-duplicate-emails) |
 | [0595-big-countries](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0595-big-countries) |
+| [1075-project-employees-i](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1075-project-employees-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
 ## Knapsack Problem
 |  |
