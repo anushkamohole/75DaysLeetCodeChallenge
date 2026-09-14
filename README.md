@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0836-rectangle-overlap](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -418,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
