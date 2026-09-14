@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0833-find-and-replace-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0833-find-and-replace-in-string) |
+| [0860-lemonade-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
+| [0860-lemonade-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
