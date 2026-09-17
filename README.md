@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0846-hand-of-straights](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
