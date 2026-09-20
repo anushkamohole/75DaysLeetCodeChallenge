@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 | [2381-shifting-letters-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [1094-car-pooling](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
+| [3498-reverse-degree-of-a-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
