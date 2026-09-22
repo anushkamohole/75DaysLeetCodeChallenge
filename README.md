@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0833-find-and-replace-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
+| [0867-transpose-matrix](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0867-transpose-matrix](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [1094-car-pooling](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [3498-reverse-degree-of-a-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Dynamic Programming
