@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1109-corporate-flight-bookings](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1109-corporate-flight-bookings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-kth-missing-positive-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1943-describe-the-painting) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1943-describe-the-painting) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [1094-car-pooling](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1109-corporate-flight-bookings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1943-describe-the-painting) |
 | [2381-shifting-letters-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
 |  |
 | ------- |
