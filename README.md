@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
