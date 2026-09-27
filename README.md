@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0645-set-mismatch) |
+| [0763-partition-labels](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0763-partition-labels) |
 | [0833-find-and-replace-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0763-partition-labels](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0833-find-and-replace-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0833-find-and-replace-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1021-remove-outermost-parentheses) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0763-partition-labels](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0763-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0135-candy) |
+| [0763-partition-labels](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
