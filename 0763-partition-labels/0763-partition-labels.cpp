@@ -1,6 +1,6 @@
 class Solution {
 public:
-    std::vector<int> partitionLabels(std::string s) {
+     vector<int> partitionLabels(string s) {
         vector<int> last_idx(26, 0);
         
         //Record the last occurrence 
@@ -8,7 +8,7 @@ public:
             last_idx[s[i] - 'a'] = i;
         }
         
-        std::vector<int> result;
+        vector<int> result;
         int start = 0;
         int end = 0;
         
