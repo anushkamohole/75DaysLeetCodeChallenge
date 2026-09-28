@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0138-copy-list-with-random-pointer) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
