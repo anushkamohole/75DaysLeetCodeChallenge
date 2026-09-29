@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1893-check-if-all-the-integers-in-a-range-are-covered](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1893-check-if-all-the-integers-in-a-range-are-covered) |
 | [1943-describe-the-painting](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1943-describe-the-painting) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2381-shifting-letters-ii](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2381-shifting-letters-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0867-transpose-matrix](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Database
 |  |
 | ------- |
@@ -495,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
