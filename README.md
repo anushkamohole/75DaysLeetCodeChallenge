@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0994-rotting-oranges) |
+| [1046-last-stone-weight](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1109-corporate-flight-bookings) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1046-last-stone-weight](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
 ## Bucket Sort
 |  |
