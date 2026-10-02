@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0078-subsets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -520,4 +522,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
