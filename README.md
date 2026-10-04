@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 | [1094-car-pooling](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1094-car-pooling) |
+| [1095-find-in-mountain-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 | [1109-corporate-flight-bookings](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1109-corporate-flight-bookings) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1539-kth-missing-positive-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [1095-find-in-mountain-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [1095-find-in-mountain-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -536,4 +539,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
+## Ternary Search
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
