@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0257-binary-tree-paths) |
+| [0678-valid-parenthesis-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0833-find-and-replace-in-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0833-find-and-replace-in-string) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0860-lemonade-change) |
@@ -475,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0678-valid-parenthesis-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -519,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anushkamohole/75DaysLeetCodeChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
